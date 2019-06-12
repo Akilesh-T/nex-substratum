@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="zzz_gesture_double_click_screenoff">true</bool>
+    <bool name="zzz_gesture_navigation_key">true</bool>
+    <bool name="zzz_navigation_softkey_control">true</bool>
+    <bool name="config_supportSystemNavigationKeys">true</bool>
+    <bool name="zzz_light_navigation_bar">true</bool>
+    <bool name="zzz_is_cn_version">true</bool>
+    <bool name="zzz_support_change_navigation_bar_color">true</bool>
+    <bool name="zzz_support_change_statusbar_bar_color">true</bool>
+    <bool name="config_supportDoubleTapWake">true</bool>
+    <bool name="config_allowAllRotations">true</bool>
+    <!--
+     <bool name="zzz_gesture_universal_search">true</bool>
+     <bool name="zzz_freq_fwk_long_press_back_to_control_torch">true</bool>
+     <bool name="zzz_config_enableWhiteBalance">true</bool>
+     -->
+
+</resources>

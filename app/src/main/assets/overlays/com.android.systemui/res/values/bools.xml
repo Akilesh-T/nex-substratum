@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="zzz_freq_fwk_fih_clear_all_recent">true</bool>
+    <bool name="zzz_freq_recent_lock_app">true</bool>
+    <bool name="is_cn_version">true</bool>
+    <bool name="zzz_game_assist_support">true</bool>
+</resources>

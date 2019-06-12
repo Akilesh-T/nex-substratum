@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_one_hand_mode">true</bool>
+    <bool name="config_gesture_settings_enabled">true</bool>
+    <bool name="config_advance_dashboard_enable">true</bool>
+    <bool name="config_smart_alert">true</bool>
+    <bool name="config_direct_call_and_answer">true</bool>
+    <!--
+    <bool name="config_support_gesture_region">true</bool>
+    <bool name="config_launcher_gesture_check_notification">true</bool>
+    <bool name="config_additional_system_update_setting_enable">true</bool>
+    <bool name="config_enableColorTemperature">true</bool>
+    <bool name="zzz_config_color_mode_with_QDCM">true</bool>
+    <bool name="zzz_config_enable_color_mode">true</bool>
+    -->
+</resources>
